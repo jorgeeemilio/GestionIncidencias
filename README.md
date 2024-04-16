@@ -1,7 +1,8 @@
 Proyecto Completo:<br/>
-1 - Diseño Bases de Datos<br/>
+1 - Diseño de la Base de Datos<br/>
 ![image](https://github.com/jorgeeemilio/GestionIncidencias/assets/29655279/d248cbdd-1e87-4157-8612-968d86cdb228)
 <br/>
+(Completar Esquema Relacional o ER, y diseño Workbench)<br/>
 2 - Creación  de la Base de Datos, de las Tablas y del Usuario de conexión<br/>
 3 - Diseño de Bocetos<br/>
 Login:<br/>
